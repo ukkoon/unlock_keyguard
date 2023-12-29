@@ -1,4 +1,4 @@
-package com.pienspiens.unlockKeyguard
+package com.pienspiens.unlockkeyguard
 
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel

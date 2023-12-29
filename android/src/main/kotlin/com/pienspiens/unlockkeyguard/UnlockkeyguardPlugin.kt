@@ -1,4 +1,4 @@
-package com.pienspiens.unlockKeyguard
+package com.pienspiens.unlockkeyguard
 
 import androidx.annotation.NonNull
 
