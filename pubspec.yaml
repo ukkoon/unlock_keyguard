@@ -19,5 +19,5 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.pienspiens.unlockKeyguard
+        package: com.pienspiens.unlockkeyguard
         pluginClass: UnlockkeyguardPlugin
