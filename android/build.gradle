@@ -1,4 +1,4 @@
-group 'com.pienspiens.unlockKeyguard'
+group 'com.pienspiens.unlockkeyguard'
 version '1.0-SNAPSHOT'
 
 buildscript {
