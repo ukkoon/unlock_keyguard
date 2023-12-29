@@ -1,0 +1,23 @@
+name: unlock_keyguard
+description: A new Flutter plugin project.
+version: 0.0.1
+
+environment:
+  sdk: ">=3.0.3 <4.0.0"
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  plugin_platform_interface: ^2.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.pienspiens.unlockKeyguard
+        pluginClass: UnlockkeyguardPlugin
